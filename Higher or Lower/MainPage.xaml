@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Higher_or_Lower.MainPage">
+
+    <AbsoluteLayout
+        BackgroundColor="DarkGreen">
+        <Label
+            Text="Higher or Lower"
+            SemanticProperties.HeadingLevel="Level1"
+            FontSize="48"
+            HorizontalOptions="CenterAndExpand"
+            AbsoluteLayout.LayoutBounds="0.5,0.2,1,0.9"
+            AbsoluteLayout.LayoutFlags="All"/>
+
+        <VerticalStackLayout
+            AbsoluteLayout.LayoutBounds="0.5,0.4"
+            AbsoluteLayout.LayoutFlags="PositionProportional">
+
+            <Label
+                Text="{Binding Source={x:Reference _guessStepper}, Path=Value, StringFormat='Your guess: {0:F0}'}"
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title"/>
+
+            <Stepper
+                x:Name="_guessStepper"
+                Minimum="1"
+                Maximum="50"
+                Increment="1"
+                Value="25"
+                HorizontalOptions="CenterAndExpand"/>
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Guess"
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="CounterBtn_Clicked"
+                HorizontalOptions="CenterAndExpand"/>
+        </VerticalStackLayout>
+
+        <Image 
+            Source="logo.png"
+            SemanticProperties.Description="Dragon Software IM Logo"
+            HorizontalOptions="Center"
+            AbsoluteLayout.LayoutBounds="0.5,0.9,0.9,0.5"
+            AbsoluteLayout.LayoutFlags="All"/>
+    </AbsoluteLayout>
+</ContentPage>
