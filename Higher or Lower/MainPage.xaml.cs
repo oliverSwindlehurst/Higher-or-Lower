@@ -9,14 +9,12 @@ public partial class MainPage : ContentPage
     public MainPage()
     {
         InitializeComponent();
-        //winningNumber = rnd.Next(1, 50);
-        winningNumber = 24;
+        winningNumber = rnd.Next(1, 50);
     }
     private void Reset()
     {
         lives = 5;
-        //winningNumber = rnd.Next(1, 50);
-        winningNumber = 24;
+        winningNumber = rnd.Next(1, 50);
         _guessStepper.Value = 25;
     }
 
