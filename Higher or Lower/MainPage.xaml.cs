@@ -9,12 +9,14 @@ public partial class MainPage : ContentPage
     public MainPage()
     {
         InitializeComponent();
-        winningNumber = rnd.Next(1, 50);
+        //winningNumber = rnd.Next(1, 50);
+        winningNumber = 24;
     }
     private void Reset()
     {
         lives = 5;
-        winningNumber = rnd.Next(1, 50);
+        //winningNumber = rnd.Next(1, 50);
+        winningNumber = 24;
         _guessStepper.Value = 25;
     }
 
@@ -25,7 +27,20 @@ public partial class MainPage : ContentPage
 
     private async void CounterBtn_Clicked(object sender, EventArgs e)
     {
-        if (lives >= 0)
+        if (lives < 1)
+        {
+            if (lives == 0 && winningNumber == _guessStepper.Value)
+            {
+                await DisplayAlert("Guess", "Congratulations! You guessed this on your last life, the number was " + winningNumber, "Play Again");
+                Reset();
+            }
+            else
+            {
+                await DisplayAlert("Guess", "You are out of lives, the number was " + winningNumber, "Play Again");
+                Reset();
+            }
+        }
+        else
         {
             if (winningNumber < _guessStepper.Value)
             {
@@ -51,12 +66,6 @@ public partial class MainPage : ContentPage
                 }
             }
         }
-        else
-        {
-            await DisplayAlert("Guess", "You are out of lives, the number was " + winningNumber, "Play Again");
-            Reset();
-        }
-
     }
 }
 

@@ -213,7 +213,6 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\bin\Debug\net6.0-ios1
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\bin\Debug\net6.0-ios15.4\iossimulator-x64\libxamarin-dotnet-debug.dylib
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\bin\Debug\net6.0-ios15.4\iossimulator-x64\libxamarin-dotnet.a
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\bin\Debug\net6.0-ios15.4\iossimulator-x64\libxamarin-dotnet.dylib
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\build-signature\signature
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\mauiimage.inputs
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\mauifont.inputs
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\mauisplash.inputs
@@ -267,3 +266,4 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios1
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\Higher or Lower.pdb
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\Higher or Lower.genruntimeconfig.cache
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\ref\Higher or Lower.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\build-signature\signature

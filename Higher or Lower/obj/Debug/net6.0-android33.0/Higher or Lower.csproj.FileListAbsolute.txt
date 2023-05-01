@@ -153,11 +153,9 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-andr
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\Mono.Android.Export.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\Mono.Android.Export.pdb
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\Mono.Android.pdb
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\mscorlib.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\netstandard.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.AppContext.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Buffers.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Collections.Concurrent.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Collections.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Collections.Immutable.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Collections.NonGeneric.dll
@@ -173,7 +171,6 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-andr
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Core.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Data.Common.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Data.DataSetExtensions.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Data.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Diagnostics.Contracts.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Diagnostics.Debug.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Diagnostics.DiagnosticSource.dll
@@ -184,7 +181,6 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-andr
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Diagnostics.Tools.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Diagnostics.TraceSource.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Diagnostics.Tracing.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Drawing.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Drawing.Primitives.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Dynamic.Runtime.dll
@@ -234,9 +230,7 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-andr
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Numerics.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Numerics.Vectors.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.ObjectModel.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.CoreLib.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.DataContractSerialization.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.Uri.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.Xml.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.Xml.Linq.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Reflection.DispatchProxy.dll
@@ -303,7 +297,6 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-andr
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Web.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Web.HttpUtility.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Windows.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Xml.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Xml.Linq.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Xml.ReaderWriter.dll
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Xml.Serialization.dll
@@ -957,3 +950,10 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-andr
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\stamp\_GenerateJavaStubs.stamp
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\stamp\_GeneratePackageManagerJava.stamp
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\stamp\_ResolveLibraryProjectImports.stamp
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\mscorlib.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Collections.Concurrent.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Data.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.CoreLib.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Private.Uri.dll
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-android33.0\android\assets\System.Xml.dll
