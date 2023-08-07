@@ -218,18 +218,18 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios1
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\mauisplash.inputs
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\mauisplash.stamp
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\Contents.json
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon20x20@2x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon20x20@3x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon29x29@2x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon29x29@3x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon40x40@2x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon40x40@3x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon60x60@2x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon60x60@3x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon76x76@2x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericon83.5x83.5@2x.png
+I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\Assets.xcassets\higherorlowericon.appiconset\higherorlowericonItunesArtwork.png
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\dotnet_bot.png
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
@@ -266,4 +266,3 @@ I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios1
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\Higher or Lower.pdb
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\Higher or Lower.genruntimeconfig.cache
 I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\ref\Higher or Lower.dll
-I:\Mobile Development\Maui\Higher or Lower\Higher or Lower\obj\Debug\net6.0-ios15.4\iossimulator-x64\build-signature\signature

@@ -10140,16 +10140,16 @@ namespace Higher_or_Lower
 		{
 			
 			// aapt resource value: 0x7F0D0000
-			public const int appicon = 2131558400;
+			public const int higherorlowericon = 2131558400;
 			
 			// aapt resource value: 0x7F0D0001
-			public const int appicon_background = 2131558401;
+			public const int higherorlowericon_background = 2131558401;
 			
 			// aapt resource value: 0x7F0D0002
-			public const int appicon_foreground = 2131558402;
+			public const int higherorlowericon_foreground = 2131558402;
 			
 			// aapt resource value: 0x7F0D0003
-			public const int appicon_round = 2131558403;
+			public const int higherorlowericon_round = 2131558403;
 			
 			static Mipmap()
 			{
